@@ -1,4 +1,4 @@
-This workbook is a combination of worksheets, dashboards and story. It is intended to solve business problems using visualisation power of Tableau.
+This workbook is a combination of worksheets, dashboards and story which uses a sample Super Store data. It is intended to solve business problems using visualisation power of Tableau.
 It can answer questions like:
 1. Which state has generated maximum sales?
 2. Which year has given the lowest sales?
